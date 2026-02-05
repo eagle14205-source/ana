@@ -1,0 +1,13 @@
+{
+  "id": "text-analyzer",
+  "name": "Text Analyzer",
+  "version": "1.0.0",
+  "description": "Analyzes text and provides insights like word count, character count, and sentiment",
+  "author": "System",
+  "enabled": true,
+  "dependencies": [],
+  "permissions": ["read"],
+  "settings": {
+    "maxTextLength": 100000
+  }
+}
